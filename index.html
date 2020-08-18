@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prodaja satova</title>
+		<meta charset="utf-8"/>
+		<meta name="keywords" content="Prodaja satova, satovi, najpovoljnije cene"/>
+		<meta name="description" content="Naša prodavnica satova je jedna od najpopularnijih u ovom delu zemlje sa veoma povoljnim cenama. Imomo širok asortiman muških i ženskih ručnih satova."/>
+		<meta name="author" content="Ivan Petrić" />
+		<meta name="robots" content="noindex, nofollow"/>	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">		
+		<link rel="stylesheet" href="assets/css/lightbox.min.css" />
+		<link rel="shortcut icon" href="assets/img/ikonica.ico"/>	
+</head>
+<body>
+    <div id="slajder">
+		<div id="zaglavlje">
+				<div id="logo">
+						<h1><a href="#slajder">Prodaja satova</a></h1>
+				</div>
+				<div id="meni">
+					<button id="btn"><i class="fa fa-bars"></i></button>
+					<ul id="meni1">	
+							<li><a id="pocetna" href="#slajder">Početna</a></li>
+							<li><a id="brendovi" href="#prvi">Brendovi</a></li>
+							<li><a id="ponuda" href="#drugi">Ponuda</a></li>
+							<li><a id="kontakt" href="#treci">Kontakt</a></li>
+							<li><a id="galerija" href="#cetvrti">Galerija</a></li>
+							<li><a id="autor" href="#peti">Autor</a></li>
+					</ul>
+					
+				</div>
+		</div>
+		<div id="naslov">
+			<h2>Maloprodaja muških i ženskih ručnih satova</h2>
+			<p>
+				Kupite naše satove po najpovoljnijim cenama u Srbiji, dostava brzo i besplatno!
+			</p>
+			<a href="#prvi">Krenimo</a>
+		</div>
+	</div>
+	<a href="#" id="dugmeGore">	
+	</a>
+	<div class="sadrzaj neparni" id="prvi">
+		<div class="podnaslovi">
+			<h2>Brendovi</h2>
+		</div>
+		<div class="okvir" id="brendovi2">
+				
+		</div>
+				
+	</div>
+	<div class="sadrzaj parni" id="drugi">
+
+
+			<div class="podnaslovi">
+					<h2>Ponuda</h2>
+			</div>
+
+			<div class="okvir">
+					<div id="pretraga">
+							<select id="dropMarke" class='tekstForme sirina' >
+								<option value="0">Izaberite</option>
+							</select>
+							<select id="sortiranje" class='tekstForme sirina' >
+									<option value="0">Sortiraj</option>
+									<option value="1">Cena po rasticem</option>
+									<option value="2">Cena po opadajucem</option>
+							</select>
+							<input type="text" id="search" placeholder="Pretrazi" class='tekstForme sirina' >
+					</div>
+			</div>
+			
+
+
+			<div class="okvir" id="proizvodi">
+				
+			</div>
+	</div>
+	<div class="sadrzaj neparni" id="treci">
+			<div class="podnaslovi">
+					<h2>Kontakt</h2>
+			</div>
+			<div class="okvir">
+				<form action="" method="post" name="kontakt" id="registracija">
+						<h2>Ukoliko imate bilo kakve nejasnoće, pitanja ili primedbe pošaljite nam poruku:</h2>
+						<div class="drzac">
+							<label for="ime">Ime:</label>
+							<input type="text" class="tekstForme brisanje" id="ime" placeholder="Unesite ime"/>
+						</div>
+						<div class="drzac">
+							<label for="prezime">Prezime:</label>
+							<input type="text" class="tekstForme brisanje" id="prezime" placeholder="Unesite preime"/>
+						</div>
+						<div class="drzac">
+								<label for="svrha">Svrha:</label>
+								<input type="text" class="tekstForme brisanje" id="svrha" placeholder="Svrha poruke"/>
+						</div>
+						<div class="drzac">
+								<label for="email">Email:</label>
+								<input type="text" class="tekstForme brisanje" id="email" placeholder="Unesite email"/>
+						</div>
+						<div class="drzac">
+								<label for="poruka">Poruka:</label>
+								<textarea class="tekstForme brisanje" rows="7" id="poruka" placeholder="Unesite poruku..."></textarea>
+						</div>
+						<div class="drzac">
+								<label for="svrha">Grad:</label>
+								<select class="tekstForme brisanje" id="dropLista">
+								</select>
+						</div>
+						<div class="drzac">
+								<span id="godine">
+									<p>Godine:</p>
+								</span>
+								<ul id="radio"></ul>	
+						</div>
+						<div class="drzac" id="dugmici">
+							<input type="button" name="posalji" class="potvrda" value="POŠALJI"/>
+							<input type="reset" name="brisanje" class="potvrda" value="PONISTI"/>
+						</div>
+						<div class="drzac" id="ispisTacnePoruke">
+						</div>
+					</form>
+			</div>
+	</div>
+	<div class="sadrzaj parni" id="cetvrti">
+			<div class="podnaslovi">
+				<h2>Galerija</h2>
+			</div>
+			<div class="okvir">
+				<div id="drzacGalerije">
+					<div id="slike">
+						<div id="slike1">		
+						</div>
+						<button type="button" id="levo" class="levoDesno">
+							<i class="fa fa-chevron-left"></i>
+						</button>
+						<button type="button" id="desno" class="levoDesno">
+							<i class="fa fa-chevron-right"></i>
+						</button>
+						<div id="opis">
+						</div>
+					</div>
+					<div id="niz">
+						<ul id="brojac">
+						</ul>
+					</div>
+				</div>
+			</div>
+	</div>
+	<div class="sadrzaj neparni" id="peti">
+			<div class="podnaslovi">
+				<h2>O autoru</h2>
+			</div>
+			<div class="okvir">
+					<div id="slikaAutor">
+						<img src="assets/img/autor.jpg" alt="Slika autora"/>
+					</div>
+					<div id="tekstAutor">
+						<div id="autorGore">
+							<h2>Ivan Petrić</h2>
+							<p>Broj indeksa:21/17</p>
+							<p>Datum rodjenja:07.08.1998</p>
+						</div>
+						<p>
+								Zovem se Ivan Petrić. Student sam Visoke skole za informacione
+		
+								i komunikacione tehnologije u Beogradu, obrazovnog profila 
+								"Internet tehnologije", broj indeksa 21/17. Završio sam srednju elektrotehničku 
+								skolu "Nikola Tesla", u Beogradu, smer "Elektrotehničar-telekomunikacija". Ovaj sajt predstavlja predispitnu 
+								obavezu iz kursa web programiranje 1. Do sada sam učio web dizajn.
+							 Lično imam veliku želju da stičem još znanja iz ove oblasti.
+						</p>
+					</div>	
+			</div>	
+	</div>
+	<div id="futer">
+		<div class="okvir" id="dole">
+				<div id="copiright">
+					<p>Copyright &copy; Ivan Petric</p>
+				</div>
+				<div id="sitemap">
+					<ul>
+						<li><a href="sitemap.xml" target="_blank">Site map</a></li>
+						<li><a href="Dokumentacija.pdf" target="_blank">Dokumentacija</a></li>
+					</ul>
+				</div>
+				<div id="mreze">
+					<ul id="mreze1">	
+					</ul>
+				</div>
+		</div>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/main.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.js"></script>
+	<script src="assets/js/lightbox.min.js"></script>
+</body>
+</html>

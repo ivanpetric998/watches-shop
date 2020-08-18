@@ -1,0 +1,38 @@
+[
+    {
+        "naziv":"Casio",
+        "slika":{
+            "src":"assets/img/casioNaslovMala.jpg",
+            "alt":"casioNaslov"
+        },
+        "tekst":{
+            "manji":"Casio je japanska multinacionalna kompanija za proizvodnju komercijalne elektronike.Njegovi proizvodi uključuju kalkulatore, mobilne telefone,  digitalne kamere, elektronske muzičke instrumente i digitalne satove",
+             "veliki":"Casioovi proizvodi uključuju kalkulatore, satove, fiskalne kase, digitalne fotoaparate, filmske kamere, prenosive računare, mobilne telefone, elektronske tastature, PDA, elektronske rečnike, digitalne dnevnike, elektronske igre, kompjuterske štampače, satove i prenosive televizore .Tokom sedamdesetih i osamdesetih Casio je poznat po svojim elektronskim kalkulatorima i elektronskim muzičkim instrumentima. Danas je Casio najčešće poznat po izradi trajnih i pouzdanih digitalnih satova. G-Shock asortiman otpornih na udarce je popularan.Casio je napravio niz digitalnih satova s ​​ugrađenim igricama osamdesetih i devedesetih godina, koje su tada bile veoma popularne."
+        },
+        "prvi":true
+    },
+    {
+        "naziv":"Seiko",
+        "slika":{
+            "src":"assets/img/seikoNaslovmala.jpg",
+            "alt":"seikoNaslov"
+        },
+        "tekst":{
+            "manji":"Seiko Holdings Corporation poznatija kao Seiko je japanska holding kompanija osnovana 1881. godine koja ima podružnice  koja proizvodi i prodaje satove, elektronske uređaje , poluprovodnike , nakit i optičke proizvode .",
+            "veliki":"Seiko proizvodi satove s kvarcnim, kinetičkim, solarnim i mehaničkim kretanjima različitih cijena, u rasponu  od oko 4.000 do 50.000.000 dolara. Kako bi se odvojile grupe kupaca, Seiko je stvorio mnoge različite marke u Japanu i na međunarodnom tržištu.Seiko 5 je stvoren da bude sat čija će performans služiti zahtjevnim potrebama generacije šezdesetih godina, koji su se brinuli za tradiciju i više o životu.Seiko ima nekoliko linija kao što su Seiko 5, luksuzni 'Credor', 'Presage' i serije ' Grand Seiko '."
+        },
+        "prvi":false
+    },
+    {
+        "naziv":"Fossil",
+        "slika":{
+            "src":"assets/img/fossilNaslovMala.jpg",
+            "alt":"fossilNaslov"
+        },
+        "tekst":{
+            "manji":"Fossil Group, je američki modni dizajner i proizvođač koji je 1984. osnovao Tom Kartsotis sa sedištem u Ričardsonu u Teksasu . Njihove robne marke uključuju Fossil,Abacus, Michele Watch, Skagen Denmark, Misfit, WSI i Zodiac Watches.",
+            "veliki":"Fossil-ov finansijski uspeh sa sopstvenim brendovima im je doneo niz ponuda za licenciranje linija satova. Godine 2001. Fossil je sarađivao sa dizajnerom Philippeom Starckom kako bi stvorio Starck fossil kolekciju satova. Ostale licencirane linije koje Fossil dizajnira, proizvodi i distribuira uključuju Burberry, DKNY, Emporio Armani, Armani Exchange, Columbia Sportswear, Diesel, Frank Gehry, Karl Lagerfeld, Tory Burch, Kate Spade, Michael Kors, Callaway Golf, Davis Cup, Marc Marc Jacobs, Skagen Designs, Michele i Adidas."
+        },
+        "prvi":false
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {"velika": "casio1.jpg", "mala": "casio1mala.jpg", "alt": "Casio1"},
+    {"velika": "casio2.jpg","mala": "casio2.jpg","alt": "Casio2"},
+    {"velika": "casio3.jpg","mala": "casio3.jpg", "alt": "Casio3"},
+    {"velika": "casio4.jpg","mala": "casio4.jpg","alt": "Casio4"},
+    {"velika": "seiko1.jpg", "mala": "seiko1Mala.jpg","alt": "Seiko1"},
+    {"velika": "seiko2.jpg", "mala": "seiko2Mala.jpg","alt": "Seiko2"},
+    {"velika": "seiko3.jpg","mala": "seiko3.jpg","alt": "Seiko3"},
+    {"velika": "seiko4.jpg","mala": "seiko4Mala.jpg","alt": "Seiko4"},
+    {"velika": "fossil1.jpg", "mala": "fossil1mala.jpg","alt": "Fossil1"},
+    {"velika": "fossil2.jpg","mala": "fossil2mala.jpg","alt": "Fossil2"},
+    {"velika": "fossil3.jpg", "mala": "fossil3mala.jpg", "alt": "Fossil3"},
+    {"velika": "fossil4.jpg", "mala": "fossil4mala.jpg", "alt": "Fossil4"}
+]

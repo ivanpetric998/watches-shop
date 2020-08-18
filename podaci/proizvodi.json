@@ -1,0 +1,230 @@
+[
+    {
+        "slika":{
+            "src":"assets/img/casio1mala.jpg",
+            "alt":"casio1"
+        },
+        "ime":"CASIO GD-120CM-8AER",
+        "cena":16500.00,
+        "tabela":{
+            "pol":"Uniseks",
+            "narukvica":"Guma",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"20 bara",
+            "funkcije":"Datumar, alarm, tajmer"
+        },
+        "marke":{
+            "id":"1",
+            "naziv":"Casio"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/casio2.jpg",
+            "alt":"casio2"
+        },
+        "ime":"CASIO EF-527D-1AVEF",
+        "cena":18890.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Čelik",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"10 bara",
+            "funkcije":"Datumar, hronograf"
+        },
+        "marke":{
+            "id":"1",
+            "naziv":"Casio"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/casio3.jpg",
+            "alt":"casio3"
+        },
+        "ime":"CASIO EFR-526L-1AVUE",
+        "cena":12100.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Koža",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"10 bara",
+            "funkcije":"Datumar, hronograf"
+        },
+        "marke":{
+            "id":"1",
+            "naziv":"Casio"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/casio4.jpg",
+            "alt":"casio4"
+        },
+        "ime":"CASIO  EFB-550D-7AVEF",
+        "cena":27120.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Čelik",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"10 bara",
+            "funkcije":"Datumar, hronograf, doba dana"
+        },
+        "marke":{
+            "id":"1",
+            "naziv":"Casio"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/seiko1Mala.jpg",
+            "alt":"seiko1"
+        },
+        "ime":"SEIKO SPL051P1",
+        "cena":34800.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Koža",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"10 bara",
+            "funkcije":"Datumar, alarm, svetsko vreme"
+        },
+        "marke":{
+            "id":"2",
+            "naziv":"Seico"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/seiko2Mala.jpg",
+            "alt":"seiko2"
+        },
+        "ime":"SEIKO SUR695P1",
+        "cena":19800.00,
+        "tabela":{
+            "pol":"Ženski",
+            "narukvica":"Čelik",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"10 bara",
+            "funkcije":"Datumar"
+        },
+        "marke":{
+            "id":"2",
+            "naziv":"Seico"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/seiko3.jpg",
+            "alt":"seiko3"
+        },
+        "ime":"Seiko SKK671P1",
+        "cena":21600.00,
+        "tabela":{
+            "pol":"Ženski",
+            "narukvica":"Čelik",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"30 metara",
+            "funkcije":"Datumar"
+        },
+        "marke":{
+            "id":"2",
+            "naziv":"Seico"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/seiko4Mala.jpg",
+            "alt":"seiko4"
+        },
+        "ime":"Seiko SSE041J1",
+        "cena":325000.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Čelik",
+            "mehanizam":"Solarni",
+            "vodootpornost":"100 metara",
+            "funkcije":"Datumar, hronograf ,GPS, dual time, indikator rezerve snage"
+        },
+        "marke":{
+            "id":"2",
+            "naziv":"Seico"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/fossil1mala.jpg",
+            "alt":"fossil1"
+        },
+        "ime":"FOSSIL FS5403",
+        "cena":18290.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Koža",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"5 bara",
+            "funkcije":"Datumar, hronograf"
+        },
+        "marke":{
+            "id":"3",
+            "naziv":"Fossil"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/fossil2mala.jpg",
+            "alt":"fossil2"
+        },
+        "ime":"FOSSIL ES4374",
+        "cena":15890.00,
+        "tabela":{
+            "pol":"Ženski",
+            "narukvica":"Čelik",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"5 bara",
+            "funkcije":"Datumar"
+        },
+        "marke":{
+            "id":"3",
+            "naziv":"Fossil"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/fossil3mala.jpg",
+            "alt":"fossil3"
+        },
+        "ime":"FOSSIL FS5412",
+        "cena":20690.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Čelik",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"5 bara",
+            "funkcije":"Datumar, hronograf"
+        },
+        "marke":{
+            "id":"3",
+            "naziv":"Fossil"
+        }
+    },
+    {
+        "slika":{
+            "src":"assets/img/fossil4mala.jpg",
+            "alt":"fossil4"
+        },
+        "ime":"FOSSIL FS5414",
+        "cena":15890.00,
+        "tabela":{
+            "pol":"Muški",
+            "narukvica":"Koža",
+            "mehanizam":"Kvarcni",
+            "vodootpornost":"5 bara",
+            "funkcije":"Datumar, hronograf"
+        },
+        "marke":{
+            "id":"3",
+            "naziv":"Fossil"
+        }
+    }
+]
